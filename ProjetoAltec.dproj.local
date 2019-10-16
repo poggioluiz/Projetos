@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/15 13:13:37.000.434,=C:\Users\poggi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 13:44:11.974,=C:\Users\poggi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 14:38:38.301,C:\Users\poggi\Documents\Delphi\CadastroCliente\uCadCli.pas=C:\Users\poggi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 14:38:38.301,C:\Users\poggi\Documents\Delphi\CadastroCliente\uCadCli.dfm=C:\Users\poggi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/15 14:39:19.845,C:\Users\poggi\Documents\Delphi\CadastroCliente\ProjetoAltec.dproj=C:\Users\poggi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/10/15 14:42:49.148,=C:\Users\poggi\Documents\Delphi\CadastroCliente\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 16:48:38.355,C:\Users\poggi\Documents\Delphi\CadastroCliente\uPesqEnd.pas=C:\Users\poggi\Documents\Delphi\CadastroCliente\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 17:35:25.533,=C:\Users\poggi\Documents\Delphi\CadastroCliente\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 19:42:22.017,C:\Users\poggi\Documents\Delphi\CadastroCliente\uSendEmail.pas=C:\Users\poggi\Documents\Delphi\CadastroCliente\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
